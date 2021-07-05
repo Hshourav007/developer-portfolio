@@ -28,4 +28,16 @@ body{
         padding: 10px 40px;
         border-radius: 5%;
     }
-    .background{background-image: url(images/Banner\ \(2\).jpg);}
+    .background{background-image: url(images/Banner\ \(2\).jpg);
+    }
+    .dream-big{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .banner{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        background-position-y: 0%;
+    }
