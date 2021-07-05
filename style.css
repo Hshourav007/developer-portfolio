@@ -28,7 +28,4 @@ body{
         padding: 10px 40px;
         border-radius: 5%;
     }
-    .banner{
-        background-image: url(images/Banner\ \(2\).jpg);
-    background-repeat: no-repeat;
-}
+    .background{background-image: url(images/Banner\ \(2\).jpg);}
